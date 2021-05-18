@@ -1,0 +1,5 @@
+<resources>
+    <string name="appname">Object Recognition System</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+    <string name="about">This app is developed as the final year project for completion of the Bachelor of Technology degree in Computer Science and Engineering by Drik Dey and Ritambhar Biswas.</string>
+</resources>
